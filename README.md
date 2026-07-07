@@ -5,8 +5,6 @@ and llama3.3 gets the value and transfers back to the qwen2.5. I think this imag
 
 # robot_dialogue_relay — 빌드 & 사용법
 
-이 샌드박스에는 Docker/GPU가 없어서 이미지를 직접 빌드·검증하지 못했습니다.
-아래 순서대로 선생님 환경(호스트 또는 radeon_robot_lab 컨테이너)에서 진행해주세요.
 
 ## 1. 빌드 컨텍스트 옮기기
 
